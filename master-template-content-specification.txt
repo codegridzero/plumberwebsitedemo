@@ -1,0 +1,1972 @@
+==================================================
+MASTER TEMPLATE CONTENT SPECIFICATION
+==================================================
+
+Template: ProPlumbers Webflow Master Template
+Source File: index.html
+
+--------------------------------------------------
+
+## SECTION 01 — STICKY EMERGENCY BANNER
+
+Element 01
+Type: Banner Text
+Current Text: 24/7 Emergency Plumbing — Call Now: +9 (245) 326-02-22
+Words: 9
+Characters Including Spaces: 54
+Characters Excluding Spaces: 46
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 54 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 02 — NAVIGATION BAR
+
+Element 01
+Type: Navigation Link
+Current Text: Home
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 02
+Type: Navigation Link
+Current Text: About
+Words: 1
+Characters Including Spaces: 5
+Characters Excluding Spaces: 5
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 5 characters including spaces
+
+Element 03
+Type: Navigation Link
+Current Text: Service
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 04
+Type: Navigation Link
+Current Text: Contact
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 05
+Type: Navigation Link
+Current Text: Package
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 06
+Type: Navigation Link
+Current Text: Team
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 07
+Type: Navigation Button
+Current Text: Contact us
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 03 — HERO
+
+Element 01
+Type: Rating Score
+Current Text: 4.9
+Words: 1
+Characters Including Spaces: 3
+Characters Excluding Spaces: 3
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 3 characters including spaces
+
+Element 02
+Type: Review Badge Text
+Current Text: Google Rating (150+ Reviews)
+Words: 4
+Characters Including Spaces: 28
+Characters Excluding Spaces: 25
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 28 characters including spaces
+
+Element 03
+Type: Main Heading
+Current Text: Your go-to plumbers for Quality and Care
+Words: 7
+Characters Including Spaces: 40
+Characters Excluding Spaces: 34
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 40 characters including spaces
+
+Element 04
+Type: Primary Button
+Current Text: Order services
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 05
+Type: Secondary Button
+Current Text: More about us
+Words: 3
+Characters Including Spaces: 13
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 13 characters including spaces
+
+Element 06
+Type: Form Title
+Current Text: Request an Instant Quote
+Words: 4
+Characters Including Spaces: 24
+Characters Excluding Spaces: 21
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 24 characters including spaces
+
+Element 07
+Type: Form Subtitle
+Current Text: Get a response within 30 minutes
+Words: 6
+Characters Including Spaces: 32
+Characters Excluding Spaces: 27
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 32 characters including spaces
+
+Element 08
+Type: Form Label
+Current Text: Full Name
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 09
+Type: Form Placeholder
+Current Text: John Doe
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 10
+Type: Form Label
+Current Text: Phone Number
+Words: 2
+Characters Including Spaces: 12
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 12 characters including spaces
+
+Element 11
+Type: Form Placeholder
+Current Text: (123) 456-7890
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 12
+Type: Form Label
+Current Text: Service Address
+Words: 2
+Characters Including Spaces: 15
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 15 characters including spaces
+
+Element 13
+Type: Form Placeholder
+Current Text: 123 Main St, City, State
+Words: 5
+Characters Including Spaces: 24
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 5 words / 24 characters including spaces
+
+Element 14
+Type: Form Label
+Current Text: Issue Type
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+Element 15
+Type: Form Select Option
+Current Text: Select issue type
+Words: 3
+Characters Including Spaces: 17
+Characters Excluding Spaces: 15
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 17 characters including spaces
+
+Element 16
+Type: Form Select Option
+Current Text: Leak Repair
+Words: 2
+Characters Including Spaces: 11
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 11 characters including spaces
+
+Element 17
+Type: Form Select Option
+Current Text: Clog/Drain Cleaning
+Words: 2
+Characters Including Spaces: 19
+Characters Excluding Spaces: 18
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 19 characters including spaces
+
+Element 18
+Type: Form Select Option
+Current Text: Plumbing Installation
+Words: 2
+Characters Including Spaces: 21
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 21 characters including spaces
+
+Element 19
+Type: Form Select Option
+Current Text: Emergency Service
+Words: 2
+Characters Including Spaces: 17
+Characters Excluding Spaces: 16
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 17 characters including spaces
+
+Element 20
+Type: Form Label
+Current Text: Preferred Time
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 21
+Type: Form Placeholder
+Current Text: e.g. As soon as possible, or 2:00 PM
+Words: 8
+Characters Including Spaces: 36
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 8 words / 36 characters including spaces
+
+Element 22
+Type: Form Submit Button
+Current Text: Get My Instant Quote
+Words: 4
+Characters Including Spaces: 20
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 20 characters including spaces
+
+Element 23
+Type: Form Success Title
+Current Text: Quote Request Received!
+Words: 3
+Characters Including Spaces: 23
+Characters Excluding Spaces: 21
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 23 characters including spaces
+
+Element 24
+Type: Form Success Description
+Current Text: Thank you! We will call or text you at your preferred time (within 30 minutes).
+Words: 15
+Characters Including Spaces: 79
+Characters Excluding Spaces: 65
+Explicit Lines: 1 line
+Requirement: Approximately 15 words / 79 characters including spaces
+
+Element 25
+Type: Statistic Number
+Current Text: 15+
+Words: 1
+Characters Including Spaces: 3
+Characters Excluding Spaces: 3
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 3 characters including spaces
+
+Element 26
+Type: Statistic Label
+Current Text: Years of Dedicated services and solving plumbing problems with care
+Words: 10
+Characters Including Spaces: 67
+Characters Excluding Spaces: 58
+Explicit Lines: 1 line
+Requirement: Approximately 10 words / 67 characters including spaces
+
+Element 27
+Type: Statistic Number
+Current Text: 95%
+Words: 1
+Characters Including Spaces: 3
+Characters Excluding Spaces: 3
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 3 characters including spaces
+
+Element 28
+Type: Statistic Label
+Current Text: Thousands of Satisfied Customers, Decades of Experience
+Words: 7
+Characters Including Spaces: 55
+Characters Excluding Spaces: 49
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 55 characters including spaces
+
+Element 29
+Type: Statistic Number
+Current Text: 1000+
+Words: 1
+Characters Including Spaces: 5
+Characters Excluding Spaces: 5
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 5 characters including spaces
+
+Element 30
+Type: Statistic Label
+Current Text: Successfully Completed Plumbing Projects, On Time and On Budget
+Words: 9
+Characters Including Spaces: 63
+Characters Excluding Spaces: 55
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 63 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 04 — ABOUT US
+
+Element 01
+Type: Paragraph
+Current Text: We pride ourselves on being your trusted local plumbing experts. With 20 years of experience serving your city/region, our mission is to provide high-quality, reliable plumbing services that you can depend on, whether it's for your home or business. From fixing leaks to full plumbing system installations, we handle every job with the utmost professionalism and care.
+Words: 57
+Characters Including Spaces: 368
+Characters Excluding Spaces: 312
+Explicit Lines: 1 line
+Requirement: Approximately 57 words / 368 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 05 — STATS COUNTER
+
+Element 01
+Type: Section Heading
+Current Text: Since We First Started Serving You...
+Words: 6
+Characters Including Spaces: 37
+Characters Excluding Spaces: 32
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 37 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Delivering top-tier plumbing solutions backed by decades of experience, rapid response times, and thousands of satisfied clients.
+Words: 17
+Characters Including Spaces: 129
+Characters Excluding Spaces: 113
+Explicit Lines: 1 line
+Requirement: Approximately 17 words / 129 characters including spaces
+
+Element 03
+Type: Statistic Number
+Current Text: 20+
+Words: 1
+Characters Including Spaces: 3
+Characters Excluding Spaces: 3
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 3 characters including spaces
+
+Element 04
+Type: Statistic Label
+Current Text: Years of Experience
+Words: 3
+Characters Including Spaces: 19
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 19 characters including spaces
+
+Element 05
+Type: Statistic Detail
+Current Text: Master plumbing excellence since 2006
+Words: 5
+Characters Including Spaces: 37
+Characters Excluding Spaces: 33
+Explicit Lines: 1 line
+Requirement: Approximately 5 words / 37 characters including spaces
+
+Element 06
+Type: Statistic Number
+Current Text: 15K+
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 07
+Type: Statistic Label
+Current Text: Jobs Completed
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 08
+Type: Statistic Detail
+Current Text: Residential and commercial plumbing
+Words: 4
+Characters Including Spaces: 35
+Characters Excluding Spaces: 32
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 35 characters including spaces
+
+Element 09
+Type: Statistic Number
+Current Text: 24/7
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 10
+Type: Statistic Label
+Current Text: Emergency Service
+Words: 2
+Characters Including Spaces: 17
+Characters Excluding Spaces: 16
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 17 characters including spaces
+
+Element 11
+Type: Statistic Detail
+Current Text: Fast 30-minute rapid dispatch
+Words: 4
+Characters Including Spaces: 29
+Characters Excluding Spaces: 26
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 29 characters including spaces
+
+Element 12
+Type: Statistic Number
+Current Text: 100%
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 13
+Type: Statistic Label
+Current Text: Satisfaction Rate
+Words: 2
+Characters Including Spaces: 17
+Characters Excluding Spaces: 16
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 17 characters including spaces
+
+Element 14
+Type: Statistic Detail
+Current Text: Guaranteed quality workmanship
+Words: 3
+Characters Including Spaces: 30
+Characters Excluding Spaces: 28
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 30 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 06 — TRUST BADGES & LICENSES
+
+Element 01
+Type: Section Heading
+Current Text: State of Ohio Licensed & Certified Plumbers
+Words: 7
+Characters Including Spaces: 43
+Characters Excluding Spaces: 37
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 43 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Fully licensed, bonded, and insured plumbing contractors committed to safety, compliance, and excellence.
+Words: 13
+Characters Including Spaces: 105
+Characters Excluding Spaces: 93
+Explicit Lines: 1 line
+Requirement: Approximately 13 words / 105 characters including spaces
+
+Element 03
+Type: Badge SVG Ring Text
+Current Text: STATE OF OHIO LICENSED
+Words: 4
+Characters Including Spaces: 22
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 22 characters including spaces
+
+Element 04
+Type: Badge SVG Code
+Current Text: LIC #OH-48291
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+Element 05
+Type: Badge Title
+Current Text: State of Ohio Licensed
+Words: 4
+Characters Including Spaces: 22
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 22 characters including spaces
+
+Element 06
+Type: Badge Subtitle
+Current Text: OCILB Plumbing License
+Words: 3
+Characters Including Spaces: 22
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 22 characters including spaces
+
+Element 07
+Type: Badge SVG Ring Text
+Current Text: DEPT OF COMMERCE
+Words: 3
+Characters Including Spaces: 16
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 16 characters including spaces
+
+Element 08
+Type: Badge SVG Ribbon Title
+Current Text: MASTER PLUMBER
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 09
+Type: Badge Title
+Current Text: OCILB Master Plumber
+Words: 3
+Characters Including Spaces: 20
+Characters Excluding Spaces: 18
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 20 characters including spaces
+
+Element 10
+Type: Badge Subtitle
+Current Text: Dept. of Commerce Cert.
+Words: 4
+Characters Including Spaces: 23
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 23 characters including spaces
+
+Element 11
+Type: Badge SVG Ring Text
+Current Text: OHIO E.P.A. CERTIFIED
+Words: 3
+Characters Including Spaces: 21
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 21 characters including spaces
+
+Element 12
+Type: Badge SVG Ribbon Title
+Current Text: WATER SAFETY & BACKFLOW
+Words: 4
+Characters Including Spaces: 23
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 23 characters including spaces
+
+Element 13
+Type: Badge Title
+Current Text: Ohio EPA Certified
+Words: 3
+Characters Including Spaces: 18
+Characters Excluding Spaces: 16
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 18 characters including spaces
+
+Element 14
+Type: Badge Subtitle
+Current Text: Backflow & Clean Water
+Words: 4
+Characters Including Spaces: 22
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 22 characters including spaces
+
+Element 15
+Type: Badge SVG Ribbon Title
+Current Text: OHIO BWC INSURED
+Words: 3
+Characters Including Spaces: 16
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 16 characters including spaces
+
+Element 16
+Type: Badge Title
+Current Text: Ohio BWC Insured
+Words: 3
+Characters Including Spaces: 16
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 16 characters including spaces
+
+Element 17
+Type: Badge Subtitle
+Current Text: $2M Liability Protected
+Words: 3
+Characters Including Spaces: 23
+Characters Excluding Spaces: 21
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 23 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 07 — SERVICES
+
+Element 01
+Type: Section Heading
+Current Text: Our Comprehensive Plumbing Services
+Words: 4
+Characters Including Spaces: 35
+Characters Excluding Spaces: 32
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 35 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Massa potenti tempor tristique scelerisque consequat. Et proin commodo ac amet dignissim risus pharetra sem.
+Words: 15
+Characters Including Spaces: 108
+Characters Excluding Spaces: 94
+Explicit Lines: 1 line
+Requirement: Approximately 15 words / 108 characters including spaces
+
+Element 03
+Type: Card Title
+Current Text: Drain Cleaning Solutions
+Words: 3
+Characters Including Spaces: 24
+Characters Excluding Spaces: 22
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 24 characters including spaces
+
+Element 04
+Type: Card Link Text
+Current Text: View services
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+Element 05
+Type: Card Title
+Current Text: Pipe Repair Services
+Words: 3
+Characters Including Spaces: 20
+Characters Excluding Spaces: 18
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 20 characters including spaces
+
+Element 06
+Type: Card Link Text
+Current Text: View services
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+Element 07
+Type: Card Title
+Current Text: Sewer Line Repair
+Words: 3
+Characters Including Spaces: 17
+Characters Excluding Spaces: 15
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 17 characters including spaces
+
+Element 08
+Type: Card Link Text
+Current Text: View services
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 08 — PROCESS (HOW IT WORKS)
+
+Element 01
+Type: Section Heading
+Current Text: Streamlined plumbing process ensuring efficient and reliable service.
+Words: 8
+Characters Including Spaces: 69
+Characters Excluding Spaces: 62
+Explicit Lines: 1 line
+Requirement: Approximately 8 words / 69 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Dignissim ut enim felis amet consequat vivamus cursus et et. Lectus eget ac in nibh risus malesuada at.
+Words: 18
+Characters Including Spaces: 103
+Characters Excluding Spaces: 86
+Explicit Lines: 1 line
+Requirement: Approximately 18 words / 103 characters including spaces
+
+Element 03
+Type: Step Number
+Current Text: 01
+Words: 1
+Characters Including Spaces: 2
+Characters Excluding Spaces: 2
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 2 characters including spaces
+
+Element 04
+Type: Step Title
+Current Text: Schedule Appointment
+Words: 2
+Characters Including Spaces: 20
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 20 characters including spaces
+
+Element 05
+Type: Step Description
+Current Text: Adipiscing sed blandit tincidunt tortor semper in odio. Parturient neque sed id netus nulla ultrices amet ullamcorper aliquet. Proin turpis imperdiet sem faucibus suscipit aliquet.
+Words: 25
+Characters Including Spaces: 180
+Characters Excluding Spaces: 156
+Explicit Lines: 1 line
+Requirement: Approximately 25 words / 180 characters including spaces
+
+Element 06
+Type: Step Number
+Current Text: 02
+Words: 1
+Characters Including Spaces: 2
+Characters Excluding Spaces: 2
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 2 characters including spaces
+
+Element 07
+Type: Step Title
+Current Text: Conduct Assessment
+Words: 2
+Characters Including Spaces: 18
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 18 characters including spaces
+
+Element 08
+Type: Step Description
+Current Text: Faucibus diam mollis augue blandit diam ornare lectus. Nunc sit ullamcorper porta praesent nulla. Duis in mi est maecenas lacus. Platea amet turpis adipiscing consectetur nibh.
+Words: 26
+Characters Including Spaces: 176
+Characters Excluding Spaces: 151
+Explicit Lines: 1 line
+Requirement: Approximately 26 words / 176 characters including spaces
+
+Element 09
+Type: Step Number
+Current Text: 03
+Words: 1
+Characters Including Spaces: 2
+Characters Excluding Spaces: 2
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 2 characters including spaces
+
+Element 10
+Type: Step Title
+Current Text: Schedule Appointment
+Words: 2
+Characters Including Spaces: 20
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 20 characters including spaces
+
+Element 11
+Type: Step Description
+Current Text: Porttitor in bibendum integer id nisl vestibulum ligula quis vitae. Interdum turpis ultricies aliquam dignissim luctus in nam. Nascetur orci facilisis maecenas vivamus tincidunt adipiscing.
+Words: 25
+Characters Including Spaces: 189
+Characters Excluding Spaces: 165
+Explicit Lines: 1 line
+Requirement: Approximately 25 words / 189 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 09 — CALL TO ACTION (MID-PAGE CTA)
+
+Element 01
+Type: Section Heading
+Current Text: Contact us today for your plumbing needs and solutions
+Words: 9
+Characters Including Spaces: 54
+Characters Excluding Spaces: 46
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 54 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Faucibus eget etiam tellus metus. Tellus auctor congue consectetur praesent est duis.
+Words: 12
+Characters Including Spaces: 85
+Characters Excluding Spaces: 74
+Explicit Lines: 1 line
+Requirement: Approximately 12 words / 85 characters including spaces
+
+Element 03
+Type: Button
+Current Text: Get in touch
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 10 — TESTIMONIALS
+
+Element 01
+Type: Section Heading
+Current Text: See what our satisfied customers are saying about us
+Words: 9
+Characters Including Spaces: 52
+Characters Excluding Spaces: 44
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 52 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Eget praesent non vel dolor. Ultricies aenean nunc a mauris eget dui nulla ipsum lacus.
+Words: 15
+Characters Including Spaces: 87
+Characters Excluding Spaces: 73
+Explicit Lines: 1 line
+Requirement: Approximately 15 words / 87 characters including spaces
+
+Element 03
+Type: Author Name
+Current Text: Emily Rodriguez
+Words: 2
+Characters Including Spaces: 15
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 15 characters including spaces
+
+Element 04
+Type: Rating Text
+Current Text: 4 4.5 Rating
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 05
+Type: Quote Paragraph
+Current Text: Exceptional service! The team fixed my leak quickly and efficiently. I was amazed at how fast they responded to my call. They arrived on time, diagnosed the problem, and had everything fixed in no time. I highly recommend their services!
+Words: 40
+Characters Including Spaces: 237
+Characters Excluding Spaces: 198
+Explicit Lines: 1 line
+Requirement: Approximately 40 words / 237 characters including spaces
+
+Element 06
+Type: Category Badge
+Current Text: Pipe Repair
+Words: 2
+Characters Including Spaces: 11
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 11 characters including spaces
+
+Element 07
+Type: Author Name
+Current Text: Mike R
+Words: 2
+Characters Including Spaces: 6
+Characters Excluding Spaces: 5
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 6 characters including spaces
+
+Element 08
+Type: Rating Text
+Current Text: 4 Rating
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 09
+Type: Quote Paragraph
+Current Text: We had an emergency pipe burst late at night, and Your Company was there within the hour! They provide clear, upfront pricing and always explain the work they’re doing. They quickly resolved the issue and saved us from a potential disaster. Their 24/7 service is truly a lifesaver.
+Words: 48
+Characters Including Spaces: 281
+Characters Excluding Spaces: 234
+Explicit Lines: 1 line
+Requirement: Approximately 48 words / 281 characters including spaces
+
+Element 10
+Type: Category Badge
+Current Text: Drain Cleaning
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 11
+Type: Author Name
+Current Text: John Thompson
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+Element 12
+Type: Rating Text
+Current Text: 4 Rating
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 13
+Type: Quote Paragraph
+Current Text: I’m very impressed with the professionalism and expertise. From the initial consultation to the final inspection, everything was handled with care and precision. They took the time to explain the process and answered all my questions. Highly recommend!
+Words: 38
+Characters Including Spaces: 252
+Characters Excluding Spaces: 215
+Explicit Lines: 1 line
+Requirement: Approximately 38 words / 252 characters including spaces
+
+Element 14
+Type: Category Badge
+Current Text: Drain Cleaning
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+Element 15
+Type: Author Name
+Current Text: Sarah Johnson
+Words: 2
+Characters Including Spaces: 13
+Characters Excluding Spaces: 12
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 13 characters including spaces
+
+Element 16
+Type: Rating Text
+Current Text: 5 Rating
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 17
+Type: Quote Paragraph
+Current Text: Fast response and great communication. They exceeded my expectations! I had a plumbing emergency, and their team was at my house within an hour. They worked diligently and made sure everything was up to code. I couldn’t be happier!
+Words: 39
+Characters Including Spaces: 231
+Characters Excluding Spaces: 193
+Explicit Lines: 1 line
+Requirement: Approximately 39 words / 231 characters including spaces
+
+Element 18
+Type: Category Badge
+Current Text: Sewer Line
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+Element 19
+Type: Author Name
+Current Text: David M
+Words: 2
+Characters Including Spaces: 7
+Characters Excluding Spaces: 6
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 7 characters including spaces
+
+Element 20
+Type: Rating Text
+Current Text: 3 Rating
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 21
+Type: Quote Paragraph
+Current Text: The plumbers from were polite, professional, and left everything cleaner than they found it.They exceeded my expectations! I had a plumbing emergency, It’s great to work with a company that values customer service as much as quality workmanship.
+Words: 38
+Characters Including Spaces: 245
+Characters Excluding Spaces: 208
+Explicit Lines: 1 line
+Requirement: Approximately 38 words / 245 characters including spaces
+
+Element 22
+Type: Category Badge
+Current Text: Pipe Repair
+Words: 2
+Characters Including Spaces: 11
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 11 characters including spaces
+
+Element 23
+Type: Author Name
+Current Text: Karen S
+Words: 2
+Characters Including Spaces: 7
+Characters Excluding Spaces: 6
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 7 characters including spaces
+
+Element 24
+Type: Rating Text
+Current Text: 4 Rating
+Words: 2
+Characters Including Spaces: 8
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 8 characters including spaces
+
+Element 25
+Type: Quote Paragraph
+Current Text: I’ve used Your Company Name for several projects over the years, and they’ve always delivered excellent results. They provide clear, upfront pricing and always explain the work they’re doing. I wouldn’t trust anyone else with my plumbing needs.
+Words: 38
+Characters Including Spaces: 244
+Characters Excluding Spaces: 207
+Explicit Lines: 1 line
+Requirement: Approximately 38 words / 244 characters including spaces
+
+Element 26
+Type: Category Badge
+Current Text: Drain Cleaning
+Words: 2
+Characters Including Spaces: 14
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 14 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 11 — BEFORE & AFTER TRANSFORMATION GRID
+
+Element 01
+Type: Section Heading
+Current Text: Real Plumbing Transformations: Before & After Results
+Words: 7
+Characters Including Spaces: 53
+Characters Excluding Spaces: 47
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 53 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Drag the slider horizontally to reveal the dramatic before and after results of our master plumbing repairs, pipe restorations, and installations.
+Words: 21
+Characters Including Spaces: 146
+Characters Excluding Spaces: 126
+Explicit Lines: 1 line
+Requirement: Approximately 21 words / 146 characters including spaces
+
+Element 03
+Type: Slider Badge
+Current Text: Before
+Words: 1
+Characters Including Spaces: 6
+Characters Excluding Spaces: 6
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 6 characters including spaces
+
+Element 04
+Type: Slider Badge
+Current Text: After
+Words: 1
+Characters Including Spaces: 5
+Characters Excluding Spaces: 5
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 5 characters including spaces
+
+Element 05
+Type: Gallery Card Title
+Current Text: Drain Line Clearing
+Words: 3
+Characters Including Spaces: 19
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 19 characters including spaces
+
+Element 06
+Type: Gallery Card Title
+Current Text: Main Sewer Line Repair
+Words: 4
+Characters Including Spaces: 22
+Characters Excluding Spaces: 19
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 22 characters including spaces
+
+Element 07
+Type: Gallery Card Title
+Current Text: Copper Pipe Restoration
+Words: 3
+Characters Including Spaces: 23
+Characters Excluding Spaces: 21
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 23 characters including spaces
+
+Element 08
+Type: Gallery Card Title
+Current Text: Kitchen Sink Installation
+Words: 3
+Characters Including Spaces: 25
+Characters Excluding Spaces: 23
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 25 characters including spaces
+
+Element 09
+Type: Info Card Title
+Current Text: Need Plumbing Solutions?
+Words: 3
+Characters Including Spaces: 24
+Characters Excluding Spaces: 22
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 24 characters including spaces
+
+Element 10
+Type: Info Card Paragraph
+Current Text: Our certified technicians are on call 24/7 to solve your leaks, sewer clogs, and piping installations with guaranteed quality care.
+Words: 20
+Characters Including Spaces: 131
+Characters Excluding Spaces: 112
+Explicit Lines: 1 line
+Requirement: Approximately 20 words / 131 characters including spaces
+
+Element 11
+Type: Info Card Button
+Current Text: Contact Us
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 12 — PRICING & PACKAGES
+
+Element 01
+Type: Section Heading
+Current Text: Transparent pricing for quality plumbing services you can trust.
+Words: 9
+Characters Including Spaces: 64
+Characters Excluding Spaces: 56
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 64 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Aliquet enim urna consequat etiam aenean quis ac odio. Vitae amet ipsum fermentum vulputate urna viverra. Ridiculus nunc molestie sollicitudin
+Words: 20
+Characters Including Spaces: 142
+Characters Excluding Spaces: 123
+Explicit Lines: 1 line
+Requirement: Approximately 20 words / 142 characters including spaces
+
+Element 03
+Type: Package Title
+Current Text: Drain Cleaning Solutions
+Words: 3
+Characters Including Spaces: 24
+Characters Excluding Spaces: 22
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 24 characters including spaces
+
+Element 04
+Type: Price Prefix
+Current Text: Start from :
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 05
+Type: Price Value
+Current Text: $ 200.00 USD
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 06
+Type: Button
+Current Text: Boook now
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 07
+Type: Package Title
+Current Text: Pipe Repair Services
+Words: 3
+Characters Including Spaces: 20
+Characters Excluding Spaces: 18
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 20 characters including spaces
+
+Element 08
+Type: Price Prefix
+Current Text: Start from :
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 09
+Type: Price Value
+Current Text: $ 300.00 USD
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 10
+Type: Button
+Current Text: Boook now
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 11
+Type: Package Title
+Current Text: Leak Detection Experts
+Words: 3
+Characters Including Spaces: 22
+Characters Excluding Spaces: 20
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 22 characters including spaces
+
+Element 12
+Type: Price Prefix
+Current Text: Start from :
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 13
+Type: Price Value
+Current Text: $ 200.00 USD
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 14
+Type: Button
+Current Text: Boook now
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 13 — SAME-DAY SERVICE MAP
+
+Element 01
+Type: Section Heading
+Current Text: Same-Day Service Across Ohio
+Words: 4
+Characters Including Spaces: 28
+Characters Excluding Spaces: 25
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 28 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Our certified master plumbers and emergency units are deployed across 5 key regional hubs. Watch our live dispatch network cycle below.
+Words: 21
+Characters Including Spaces: 135
+Characters Excluding Spaces: 115
+Explicit Lines: 1 line
+Requirement: Approximately 21 words / 135 characters including spaces
+
+Element 03
+Type: Map Pin City
+Current Text: 📍 Columbus, OH
+Words: 3
+Characters Including Spaces: 15
+Characters Excluding Spaces: 13
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 15 characters including spaces
+
+Element 04
+Type: Map Pin Address
+Current Text: 450 E Town St, Columbus, OH 43215
+Words: 7
+Characters Including Spaces: 33
+Characters Excluding Spaces: 27
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 33 characters including spaces
+
+Element 05
+Type: Map Pin Dispatch Tag
+Current Text: ⚡ Active Dispatch • 30-Min Arrival
+Words: 6
+Characters Including Spaces: 34
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 34 characters including spaces
+
+Element 06
+Type: Map Pin City
+Current Text: 📍 Cleveland, OH
+Words: 3
+Characters Including Spaces: 16
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 16 characters including spaces
+
+Element 07
+Type: Map Pin Address
+Current Text: 1220 Huron Rd E, Cleveland, OH 44115
+Words: 7
+Characters Including Spaces: 36
+Characters Excluding Spaces: 30
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 36 characters including spaces
+
+Element 08
+Type: Map Pin Dispatch Tag
+Current Text: ⚡ Active Dispatch • 30-Min Arrival
+Words: 6
+Characters Including Spaces: 34
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 34 characters including spaces
+
+Element 09
+Type: Map Pin City
+Current Text: 📍 Cincinnati, OH
+Words: 3
+Characters Including Spaces: 17
+Characters Excluding Spaces: 15
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 17 characters including spaces
+
+Element 10
+Type: Map Pin Address
+Current Text: 700 Walnut St, Cincinnati, OH 45202
+Words: 6
+Characters Including Spaces: 35
+Characters Excluding Spaces: 30
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 35 characters including spaces
+
+Element 11
+Type: Map Pin Dispatch Tag
+Current Text: ⚡ Active Dispatch • 30-Min Arrival
+Words: 6
+Characters Including Spaces: 34
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 34 characters including spaces
+
+Element 12
+Type: Map Pin City
+Current Text: 📍 Akron, OH
+Words: 3
+Characters Including Spaces: 12
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 12 characters including spaces
+
+Element 13
+Type: Map Pin Address
+Current Text: 175 S Main St, Akron, OH 44308
+Words: 7
+Characters Including Spaces: 30
+Characters Excluding Spaces: 24
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 30 characters including spaces
+
+Element 14
+Type: Map Pin Dispatch Tag
+Current Text: ⚡ Active Dispatch • 30-Min Arrival
+Words: 6
+Characters Including Spaces: 34
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 34 characters including spaces
+
+Element 15
+Type: Map Pin City
+Current Text: 📍 Dayton, OH
+Words: 3
+Characters Including Spaces: 13
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 13 characters including spaces
+
+Element 16
+Type: Map Pin Address
+Current Text: 130 W Second St, Dayton, OH 45402
+Words: 7
+Characters Including Spaces: 33
+Characters Excluding Spaces: 27
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 33 characters including spaces
+
+Element 17
+Type: Map Pin Dispatch Tag
+Current Text: ⚡ Active Dispatch • 30-Min Arrival
+Words: 6
+Characters Including Spaces: 34
+Characters Excluding Spaces: 29
+Explicit Lines: 1 line
+Requirement: Approximately 6 words / 34 characters including spaces
+
+Element 18
+Type: Button
+Current Text: Book Emergency Same-Day Visit
+Words: 4
+Characters Including Spaces: 29
+Characters Excluding Spaces: 26
+Explicit Lines: 1 line
+Requirement: Approximately 4 words / 29 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 14 — FREQUENTLY ASKED QUESTIONS (FAQ)
+
+Element 01
+Type: Section Heading
+Current Text: Frequently Asked Questions
+Words: 3
+Characters Including Spaces: 26
+Characters Excluding Spaces: 24
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 26 characters including spaces
+
+Element 02
+Type: Section Subtitle
+Current Text: Have questions about our plumbing services? Find quick, reliable answers below regarding emergency visits, leak repairs, and pricing.
+Words: 18
+Characters Including Spaces: 133
+Characters Excluding Spaces: 116
+Explicit Lines: 1 line
+Requirement: Approximately 18 words / 133 characters including spaces
+
+Element 03
+Type: Question Title
+Current Text: What should I do first in a plumbing emergency?
+Words: 9
+Characters Including Spaces: 47
+Characters Excluding Spaces: 39
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 47 characters including spaces
+
+Element 04
+Type: Answer Paragraph
+Current Text: Locate and shut off your main water valve immediately to halt active water flow and prevent structural damage. Once the valve is closed, call our 24/7 emergency dispatch team to send a certified master plumber straight to your property.
+Words: 39
+Characters Including Spaces: 236
+Characters Excluding Spaces: 198
+Explicit Lines: 1 line
+Requirement: Approximately 39 words / 236 characters including spaces
+
+Element 05
+Type: Question Title
+Current Text: How quickly can your plumbers respond to emergency calls?
+Words: 9
+Characters Including Spaces: 57
+Characters Excluding Spaces: 49
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 57 characters including spaces
+
+Element 06
+Type: Answer Paragraph
+Current Text: For critical emergencies (such as burst water lines, overflowing sewer backups, or major leaks), we guarantee a 30-minute rapid response dispatch across our Ohio service network.
+Words: 26
+Characters Including Spaces: 178
+Characters Excluding Spaces: 153
+Explicit Lines: 1 line
+Requirement: Approximately 26 words / 178 characters including spaces
+
+Element 07
+Type: Question Title
+Current Text: What are the most common signs of a hidden water leak?
+Words: 11
+Characters Including Spaces: 54
+Characters Excluding Spaces: 44
+Explicit Lines: 1 line
+Requirement: Approximately 11 words / 54 characters including spaces
+
+Element 08
+Type: Answer Paragraph
+Current Text: Warning signs include unexplained spikes in monthly utility bills, damp or discolored drywall/ceiling spots, musty odors, low water pressure, or hearing running water when all fixtures are turned off.
+Words: 29
+Characters Including Spaces: 200
+Characters Excluding Spaces: 172
+Explicit Lines: 1 line
+Requirement: Approximately 29 words / 200 characters including spaces
+
+Element 09
+Type: Question Title
+Current Text: How can I prevent my drain lines from getting clogged?
+Words: 10
+Characters Including Spaces: 54
+Characters Excluding Spaces: 45
+Explicit Lines: 1 line
+Requirement: Approximately 10 words / 54 characters including spaces
+
+Element 10
+Type: Answer Paragraph
+Current Text: Never pour cooking oils, grease, or coffee grounds down kitchen drains, install hair strainers in tub and shower drains, and avoid flushing non-flushable wipes. Periodic hydro-jetting or professional maintenance also keeps main lines clear.
+Words: 34
+Characters Including Spaces: 240
+Characters Excluding Spaces: 207
+Explicit Lines: 1 line
+Requirement: Approximately 34 words / 240 characters including spaces
+
+Element 11
+Type: Question Title
+Current Text: Why is my water heater making a loud knocking or popping noise?
+Words: 12
+Characters Including Spaces: 63
+Characters Excluding Spaces: 52
+Explicit Lines: 1 line
+Requirement: Approximately 12 words / 63 characters including spaces
+
+Element 12
+Type: Answer Paragraph
+Current Text: Popping or rumbling noises indicate mineral sediment buildup at the bottom of your heating tank. Annual flushing removes these mineral deposits, restores heating efficiency, and extends the lifespan of your unit.
+Words: 31
+Characters Including Spaces: 212
+Characters Excluding Spaces: 182
+Explicit Lines: 1 line
+Requirement: Approximately 31 words / 212 characters including spaces
+
+--------------------------------------------------
+
+## SECTION 15 — FOOTER
+
+Element 01
+Type: Footer Description
+Current Text: Sit est nunc proin tellus posuere egestas vitae morbi.
+Words: 9
+Characters Including Spaces: 54
+Characters Excluding Spaces: 46
+Explicit Lines: 1 line
+Requirement: Approximately 9 words / 54 characters including spaces
+
+Element 02
+Type: Footer Contact Label
+Current Text: Address :
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 03
+Type: Footer Contact Text
+Current Text: Macomb, Chicago HQ Estica Cop.
+Words: 5
+Characters Including Spaces: 30
+Characters Excluding Spaces: 26
+Explicit Lines: 1 line
+Requirement: Approximately 5 words / 30 characters including spaces
+
+Element 04
+Type: Footer Contact Label
+Current Text: Contact :
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 05
+Type: Footer Phone Link
+Current Text: +9 (245) 326-02-22
+Words: 3
+Characters Including Spaces: 18
+Characters Excluding Spaces: 16
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 18 characters including spaces
+
+Element 06
+Type: Footer Email Link
+Current Text: hello@example.com
+Words: 1
+Characters Including Spaces: 17
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 17 characters including spaces
+
+Element 07
+Type: Column Title
+Current Text: Main page
+Words: 2
+Characters Including Spaces: 9
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 9 characters including spaces
+
+Element 08
+Type: Footer Link
+Current Text: Home
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 09
+Type: Footer Link
+Current Text: About
+Words: 1
+Characters Including Spaces: 5
+Characters Excluding Spaces: 5
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 5 characters including spaces
+
+Element 10
+Type: Footer Link
+Current Text: Contact
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 11
+Type: Column Title
+Current Text: Inner page
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+Element 12
+Type: Footer Link
+Current Text: Blog
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 13
+Type: Footer Link
+Current Text: Service
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 14
+Type: Footer Link
+Current Text: Team
+Words: 1
+Characters Including Spaces: 4
+Characters Excluding Spaces: 4
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 4 characters including spaces
+
+Element 15
+Type: Footer Link
+Current Text: Package
+Words: 1
+Characters Including Spaces: 7
+Characters Excluding Spaces: 7
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 7 characters including spaces
+
+Element 16
+Type: Column Title
+Current Text: Inner page
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+Element 17
+Type: Footer Link
+Current Text: Blog details
+Words: 2
+Characters Including Spaces: 12
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 12 characters including spaces
+
+Element 18
+Type: Footer Link
+Current Text: Service details
+Words: 2
+Characters Including Spaces: 15
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 15 characters including spaces
+
+Element 19
+Type: Footer Link
+Current Text: Team details
+Words: 2
+Characters Including Spaces: 12
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 12 characters including spaces
+
+Element 20
+Type: Footer Link
+Current Text: Package details
+Words: 2
+Characters Including Spaces: 15
+Characters Excluding Spaces: 14
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 15 characters including spaces
+
+Element 21
+Type: Column Title
+Current Text: Utility page
+Words: 2
+Characters Including Spaces: 12
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 12 characters including spaces
+
+Element 22
+Type: Footer Link
+Current Text: Style guide
+Words: 2
+Characters Including Spaces: 11
+Characters Excluding Spaces: 10
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 11 characters including spaces
+
+Element 23
+Type: Footer Link
+Current Text: Licenses
+Words: 1
+Characters Including Spaces: 8
+Characters Excluding Spaces: 8
+Explicit Lines: 1 line
+Requirement: Approximately 1 words / 8 characters including spaces
+
+Element 24
+Type: Footer Link
+Current Text: 404 not found
+Words: 3
+Characters Including Spaces: 13
+Characters Excluding Spaces: 11
+Explicit Lines: 1 line
+Requirement: Approximately 3 words / 13 characters including spaces
+
+Element 25
+Type: Footer Link
+Current Text: Password protected
+Words: 2
+Characters Including Spaces: 18
+Characters Excluding Spaces: 17
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 18 characters including spaces
+
+Element 26
+Type: Footer Link
+Current Text: Change log
+Words: 2
+Characters Including Spaces: 10
+Characters Excluding Spaces: 9
+Explicit Lines: 1 line
+Requirement: Approximately 2 words / 10 characters including spaces
+
+Element 27
+Type: Attribution Text
+Current Text: Powered by Webflow | Designed by WebOcean
+Words: 7
+Characters Including Spaces: 41
+Characters Excluding Spaces: 35
+Explicit Lines: 1 line
+Requirement: Approximately 7 words / 41 characters including spaces
+
+--------------------------------------------------
+
+==================================================
+FINAL SPECIFICATION SUMMARY
+==================================================
+
+Total Number of Sections: 15
+Total Number of Text Elements: 200
+Total Number of Words: 1312
+Total Number of Characters Including Spaces: 8282
+Total Number of Characters Excluding Spaces: 7170
+
+--------------------------------------------------
+SECTION-BY-SECTION SUMMARY
+--------------------------------------------------
+
+SECTION 01 — STICKY EMERGENCY BANNER
+  - Text Elements: 1
+  - Total Words: 9
+  - Characters (Including Spaces): 54
+  - Characters (Excluding Spaces): 46
+
+SECTION 02 — NAVIGATION BAR
+  - Text Elements: 7
+  - Total Words: 8
+  - Characters (Including Spaces): 44
+  - Characters (Excluding Spaces): 43
+
+SECTION 03 — HERO
+  - Text Elements: 30
+  - Total Words: 116
+  - Characters (Including Spaces): 699
+  - Characters (Excluding Spaces): 613
+
+SECTION 04 — ABOUT US
+  - Text Elements: 1
+  - Total Words: 57
+  - Characters (Including Spaces): 368
+  - Characters (Excluding Spaces): 312
+
+SECTION 05 — STATS COUNTER
+  - Text Elements: 14
+  - Total Words: 52
+  - Characters (Including Spaces): 379
+  - Characters (Excluding Spaces): 341
+
+SECTION 06 — TRUST BADGES & LICENSES
+  - Text Elements: 17
+  - Total Words: 68
+  - Characters (Including Spaces): 439
+  - Characters (Excluding Spaces): 388
+
+SECTION 07 — SERVICES
+  - Text Elements: 8
+  - Total Words: 34
+  - Characters (Including Spaces): 243
+  - Characters (Excluding Spaces): 217
+
+SECTION 08 — PROCESS (HOW IT WORKS)
+  - Text Elements: 11
+  - Total Words: 111
+  - Characters (Including Spaces): 781
+  - Characters (Excluding Spaces): 681
+
+SECTION 09 — CALL TO ACTION (MID-PAGE CTA)
+  - Text Elements: 3
+  - Total Words: 24
+  - Characters (Including Spaces): 151
+  - Characters (Excluding Spaces): 130
+
+SECTION 10 — TESTIMONIALS
+  - Text Elements: 26
+  - Total Words: 302
+  - Characters (Including Spaces): 1816
+  - Characters (Excluding Spaces): 1540
+
+SECTION 11 — BEFORE & AFTER TRANSFORMATION GRID
+  - Text Elements: 11
+  - Total Words: 68
+  - Characters (Including Spaces): 464
+  - Characters (Excluding Spaces): 407
+
+SECTION 12 — PRICING & PACKAGES
+  - Text Elements: 14
+  - Total Words: 62
+  - Characters (Including Spaces): 371
+  - Characters (Excluding Spaces): 323
+
+SECTION 13 — SAME-DAY SERVICE MAP
+  - Text Elements: 18
+  - Total Words: 108
+  - Characters (Including Spaces): 602
+  - Characters (Excluding Spaces): 512
+
+SECTION 14 — FREQUENTLY ASKED QUESTIONS (FAQ)
+  - Text Elements: 12
+  - Total Words: 231
+  - Characters (Including Spaces): 1500
+  - Characters (Excluding Spaces): 1281
+
+SECTION 15 — FOOTER
+  - Text Elements: 27
+  - Total Words: 62
+  - Characters (Including Spaces): 371
+  - Characters (Excluding Spaces): 336
