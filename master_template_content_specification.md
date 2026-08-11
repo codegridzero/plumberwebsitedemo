@@ -2,7 +2,7 @@
 MASTER TEMPLATE CONTENT SPECIFICATION
 ==================================================
 
-Template: ProPlumbers Webflow Master Template
+Template: ProPlumbers Master Template
 Source File: index.html
 
 --------------------------------------------------
@@ -1858,7 +1858,7 @@ Requirement: Approximately 2 words / 10 characters including spaces
 
 Element 27
 Type: Attribution Text
-Current Text: Powered by Webflow | Designed by WebOcean
+Current Text: Powered by HTML5 | Designed by WebOcean
 Words: 7
 Characters Including Spaces: 41
 Characters Excluding Spaces: 35
