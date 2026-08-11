@@ -782,7 +782,7 @@
                 <div class="container-large">
                     <div class="header-top-content"
                         style="width: 100%; max-width: 48rem; margin-left: auto; margin-right: auto; margin-bottom: 3.5rem;">
-                        <h2 class="heading-style-h2 light">Since We First Started Serving You...</h2>
+                        <h2 class="heading-style-h2 light">Since We First Started <br> Serving You...</h2>
                         <div class="padding-bottom padding-small"></div>
                         <div class="text-size-regular light" style="opacity: 0.85;">Delivering top-tier plumbing
                             solutions backed by decades of experience, rapid response times, and thousands of satisfied
@@ -885,8 +885,7 @@
 
                     <div class="service-collection-list grid-4-row">
                         <!-- Stat Card 1 -->
-                        <div class="service-card"
-                            style="background-color: transparent; border: 1px solid #ffffff;">
+                        <div class="service-card" style="background-color: transparent; border: 1px solid #ffffff;">
                             <h1 class="heading-style-h1 light" style="margin-bottom: 0.25rem; font-size: 3.25rem;">
                                 <span class="counter-value" data-target="20" data-suffix="+">0+</span>
                             </h1>
@@ -897,8 +896,7 @@
                         </div>
 
                         <!-- Stat Card 2 -->
-                        <div class="service-card"
-                            style="background-color: transparent; border: 1px solid #ffffff;">
+                        <div class="service-card" style="background-color: transparent; border: 1px solid #ffffff;">
                             <h1 class="heading-style-h1 light" style="margin-bottom: 0.25rem; font-size: 3.25rem;">
                                 <span class="counter-value" data-target="15" data-suffix="K+">0K+</span>
                             </h1>
@@ -909,8 +907,7 @@
                         </div>
 
                         <!-- Stat Card 3 -->
-                        <div class="service-card"
-                            style="background-color: transparent; border: 1px solid #ffffff;">
+                        <div class="service-card" style="background-color: transparent; border: 1px solid #ffffff;">
                             <h1 class="heading-style-h1 light" style="margin-bottom: 0.25rem; font-size: 3.25rem;">
                                 <span class="counter-value" data-target="24" data-suffix="/7">0/7</span>
                             </h1>
@@ -921,8 +918,7 @@
                         </div>
 
                         <!-- Stat Card 4 -->
-                        <div class="service-card"
-                            style="background-color: transparent; border: 1px solid #ffffff;">
+                        <div class="service-card" style="background-color: transparent; border: 1px solid #ffffff;">
                             <h1 class="heading-style-h1 light" style="margin-bottom: 0.25rem; font-size: 3.25rem;">
                                 <span class="counter-value" data-target="100" data-suffix="%">0%</span>
                             </h1>
@@ -2270,10 +2266,12 @@
                                     transform: translateX(-50%) translateY(6px);
                                     background-color: var(--secondary--dark-blue, #01205C);
                                     color: #FFFFFF;
-                                    padding: 0.85rem 1.1rem;
+                                    padding: 0.85rem 1.25rem;
                                     border-radius: 0.6rem;
                                     box-shadow: 0 10px 30px rgba(1, 32, 92, 0.25);
-                                    min-width: 220px;
+                                    width: max-content;
+                                    max-width: none;
+                                    white-space: nowrap;
                                     opacity: 0;
                                     visibility: hidden;
                                     transition: opacity 0.35s ease, transform 0.35s ease, visibility 0.35s ease;
@@ -2303,18 +2301,20 @@
                                     font-size: 0.95rem;
                                     font-weight: 700;
                                     color: #FFFFFF;
-                                    margin-bottom: 0.2rem;
+                                    margin-bottom: 0.25rem;
                                     display: flex;
                                     align-items: center;
                                     gap: 0.35rem;
+                                    white-space: nowrap;
                                 }
 
                                 .map-shop-address {
                                     font-family: var(--font--paragraph-font, "Inter", sans-serif);
-                                    font-size: 0.78rem;
+                                    font-size: 0.8rem;
                                     color: rgba(255, 255, 255, 0.85);
                                     line-height: 1.35;
-                                    margin-bottom: 0.45rem;
+                                    margin-bottom: 0.5rem;
+                                    white-space: nowrap;
                                 }
 
                                 .map-dispatch-tag {
@@ -2326,15 +2326,15 @@
                                     font-family: var(--font--heading-font, "Satoshi", sans-serif);
                                     font-size: 0.7rem;
                                     font-weight: 700;
-                                    padding: 0.22rem 0.6rem;
+                                    padding: 0.25rem 0.7rem;
                                     border-radius: 50px;
                                     text-transform: uppercase;
                                     letter-spacing: 0.04em;
+                                    white-space: nowrap;
                                 }
 
                                 @media screen and (max-width: 576px) {
                                     .map-tooltip-card {
-                                        min-width: 180px;
                                         padding: 0.7rem 0.9rem;
                                     }
 
@@ -2344,6 +2344,11 @@
 
                                     .map-shop-address {
                                         font-size: 0.72rem;
+                                    }
+
+                                    .map-dispatch-tag {
+                                        font-size: 0.65rem;
+                                        padding: 0.2rem 0.5rem;
                                     }
                                 }
                             </style>
